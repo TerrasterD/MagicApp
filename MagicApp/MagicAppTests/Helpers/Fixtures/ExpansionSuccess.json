@@ -1,0 +1,15 @@
+{
+"sets":[
+    {
+    "code":"KTK",
+    "name":"Khans of Tarkir",
+    "type":"expansion",
+    "border":"black",
+    "mkm_id":1495,
+    "mkm_name":"Khans of Tarkir",
+    "releaseDate":"2014-09-26",
+    "magicCardsInfoCode":"ktk",
+    "block":"Khans of Tarkir"
+    }
+]
+}
